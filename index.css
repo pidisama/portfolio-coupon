@@ -1,5 +1,6 @@
 body {
   font-family: Arial;
+  margin: auto;
 }
 .wrapper {
   background-color: #0E4D92;
@@ -45,6 +46,7 @@ body {
 .container p{
   text-align: justify;
   margin: 0px 40px 0px 40px;
+  color: white;
 }
 .footer{
   padding: 30px 16px;
