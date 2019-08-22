@@ -1,0 +1,65 @@
+body {
+  font-family: Arial;
+}
+.wrapper {
+  background-color: #0E4D92;
+  width: 99.9%;
+  margin: 0 auto;
+  max-width: 992px;
+}
+.logo{
+  background-color: white;
+  padding: 0px 40px;  
+  border-radius: 100px 0px 0px 100px;
+  margin-right: -16px;
+  margin-left: 200px;
+}
+.logo h3{
+  padding: 30px 10px;
+}
+.c-images{
+  float: left;
+  margin: 0px 0px 20px 20px;
+  width: 200px;
+}
+.c-images img{
+  height: auto;
+  width: 100%
+}
+.coupon{
+  margin: 30px;
+}
+.container {
+  padding: 2px 16px;
+}
+.container h2{
+  margin: auto;
+  font-size: 18rem;
+  color: white;
+  text-indent: 1rem;
+}
+.container .h3{
+  color: white;
+  text-indent: 2rem;
+}
+.container p{
+  text-align: justify;
+  margin: 0px 40px 0px 40px;
+}
+.footer{
+  padding: 30px 16px;
+  clear: both;
+  background-color: #999999;
+}
+.footer p{
+  text-indent: 2rem;
+  margin: auto;
+  padding: 10px 0px;
+}
+.promo {
+  background: #ccc;
+  padding: 3px;
+}
+.expire {
+  color: red;
+}
