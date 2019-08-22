@@ -27,6 +27,9 @@ body {
   height: auto;
   width: 100%
 }
+.c-images img:hover{
+  opacity: 0.7;
+}
 .coupon{
   margin: 30px;
 }
